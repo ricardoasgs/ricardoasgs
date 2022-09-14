@@ -6,7 +6,7 @@
     />
     <img
       height="160em"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=ricardoasgs&langs_count=5&theme=dracula&exclude_repo=SAAI&layout=compact"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=ricardoasgs&langs_count=5&theme=dracula&layout=compact"
     />
   </a>
 </div>
